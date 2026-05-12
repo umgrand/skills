@@ -1,0 +1,5 @@
+{
+  "name": "html-presentations",
+  "version": "1.0.0",
+  "description": "Create on-brand Betashares HTML presentations from natural language. Composable content modules, inline SVG diagrams, and self-contained single-file output."
+}

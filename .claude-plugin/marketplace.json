@@ -14,6 +14,15 @@
         "source": "git-subdir",
         "path": "plugins/handoff"
       }
+    },
+    {
+      "name": "html-presentations",
+      "description": "Create on-brand Betashares HTML presentations with composable content modules, inline SVG diagrams, and self-contained single-file output.",
+      "category": "content",
+      "source": {
+        "source": "git-subdir",
+        "path": "plugins/html-presentations"
+      }
     }
   ]
 }
