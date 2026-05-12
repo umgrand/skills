@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "skills",
+  "description": "Claude Code plugins for Codex task delegation and workflow automation",
+  "owner": {
+    "name": "Matteo Grand"
+  },
+  "plugins": [
+    {
+      "name": "handoff",
+      "description": "Proactive task delegation to Codex with structured briefings, task tracking, and chained execution.",
+      "category": "development",
+      "source": {
+        "source": "git-subdir",
+        "path": "plugins/handoff"
+      }
+    }
+  ]
+}

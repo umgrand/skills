@@ -1,0 +1,5 @@
+{
+  "name": "handoff",
+  "version": "0.1.0",
+  "description": "Proactive task delegation to Codex with structured briefings, task tracking, and chained execution."
+}
