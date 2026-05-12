@@ -12,7 +12,10 @@
       "category": "development",
       "source": {
         "source": "git-subdir",
-        "path": "plugins/handoff"
+        "url": "https://github.com/umgrand/skills.git",
+        "path": "plugins/handoff",
+        "ref": "main",
+        "sha": "cbd28c2a18728518c516415b9ce6f28f87704787"
       }
     },
     {
@@ -21,7 +24,10 @@
       "category": "content",
       "source": {
         "source": "git-subdir",
-        "path": "plugins/html-presentations"
+        "url": "https://github.com/umgrand/skills.git",
+        "path": "plugins/html-presentations",
+        "ref": "main",
+        "sha": "cbd28c2a18728518c516415b9ce6f28f87704787"
       }
     }
   ]
